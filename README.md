@@ -1,6 +1,7 @@
 # Autoregressive Transformer and Rolling Diffusion Sampler for ComfyUI
 
 A custom ComfyUI node that implements an Autoregressive Transformer and Rolling Diffusion-like Decoder using Black Forest Lab's Flux-Dev model for accurate text-to-image generation, similar to GPT-4o's image generation approach.
+![GitBanner](https://github.com/user-attachments/assets/9ed09756-6fdb-4d35-89e7-a821adead9ca)
 
 ## Overview
 
