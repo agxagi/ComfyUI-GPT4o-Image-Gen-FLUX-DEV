@@ -38,6 +38,7 @@ After installation, you'll find two new nodes in the ComfyUI interface:
 
 1. **Flux-Dev Autoregressive Rolling Diffusion Sampler**: A standalone node that takes a text prompt and generates an image using the Flux-Dev model
 2. **Autoregressive Rolling Diffusion Sampler**: A node that can be integrated with existing ComfyUI workflows, taking a model, conditioning, and latent image as inputs
+![Screenshot (885)](https://github.com/user-attachments/assets/8f1146d8-fe0d-4e90-b3d9-5997bb4126b0)
 
 ### Flux-Dev Autoregressive Rolling Diffusion Sampler
 
